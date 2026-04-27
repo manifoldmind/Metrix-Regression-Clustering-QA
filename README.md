@@ -24,7 +24,8 @@ Metrix-Regression-Clustering-QA/
 ├── data/ # Исходные и предобработанные данные (из ЛР №4)
 ├── notebooks/ # Jupyter-ноутбуки с анализом
 │ ├── 01_regression.ipynb
-│ └── 02_clustering.ipynb
+│ ├── 02_clustering.ipynb
+| └── __sandbox.ipynb  # черновик-песочница; содержит весь ход работы; вспомогательный файл для истории
 ├── src/ # Вспомогательные модули (если есть)
 ├── outputs/ # Сохранённые графики и отчёты
 ├── README.md
